@@ -1,0 +1,81 @@
+/*
+ * Application Specific Style
+ * by Enrique Ortiz
+ * 
+ * -----------------
+ * TABLE OF CONTENTS
+ * -----------------
+ * 
+ * 1) Generic
+ * 2) Input Boxes
+
+ */
+
+/* ==================================================
+ * 1) Generic
+ * ================================================== */
+
+.tablexxx {
+	clear: both;
+	width: 100%;
+	margin: 40 auto;
+}
+
+
+
+
+/* ==================================================
+ * 2) Input Boxes
+ * ================================================== */
+
+input[readonly="true"]
+{
+    background-color:#ccc;
+}
+
+.small_input {
+	width: 1.5em !important;
+	text-align: center;
+}
+
+.input_70 {
+	width: 70% !important;
+}
+
+.input_table {width: 98% !important;}
+
+.input_90 {width: 90% !important;}
+
+.type_loader
+{
+	width: 10%;
+}
+
+select[name="table-list_lengthxx"]
+{
+	width: 10% !important;
+	background-color: red;
+}
+
+.data_table_listxxxx
+{
+	width: 5px !important;
+	background-color: red;
+	min-width: 5px !important;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Misc
+ */
+
+.row_table_center{ text-align: center !important; }
+
+.content_main{
+    color: #475D68;
+    line-height: 10px;
+    text-shadow: 0 2px 0 #FFFFFF;
+    font-size: 18px;
+    margin:8px;
+    margin-left: 0px;
+}

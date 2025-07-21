@@ -1,0 +1,183 @@
+/*
+ * Grape - Professional & Flexible Admin Template
+ * by Stammi <http://themeforest.net/user/Stammi>
+ * 
+ * -----------------
+ * TABLE OF CONTENTS
+ * -----------------
+ * 
+ * 1) Generic
+ * 2) Pack: Fugue
+ *   2.1) 16x16
+ *   2.2) 24x24
+ */
+
+
+/* ==================================================
+ * 1) Generic
+ * ================================================== */
+
+.icon {
+	background-repeat: no-repeat;
+	height: 24px;
+	width: 24px;
+	
+}
+
+
+
+
+
+
+
+
+/* ==================================================
+ * 2) Pack: Fugue
+ * ================================================== */
+
+/*
+ * 2.1) 16x16  img/mt_icons/app/
+ */
+
+.i-16-address-book { background-image: url("../img/mt_icons/app/address-book-16.png"); }
+.i-16-alarm-clock { background-image: url("../img/mt_icons/app/alarm-clock-16.png"); }
+.i-16-application { background-image: url("../img/mt_icons/app/application-16.png"); }
+.i-16-application-monitor { background-image: url("../img/mt_icons/app/application-monitor-16.png"); }
+.i-16-application-terminal { background-image: url("../img/mt_icons/app/application-terminal-16.png"); }
+.i-16-balloon { background-image: url("../img/mt_icons/app/balloon-16.png"); }
+.i-16-bank { background-image: url("../img/mt_icons/app/bank-16.png"); }
+.i-16-block { background-image: url("../img/mt_icons/app/block-16.png"); }
+.i-16-blue-document { background-image: url("../img/mt_icons/app/blue-document-16.png"); }
+.i-16-blue-document-access { background-image: url("../img/mt_icons/app/blue-document-access-16.png"); }
+.i-16-blue-document-binary { background-image: url("../img/mt_icons/app/blue-document-binary-16.png"); }
+.i-16-blue-document-bookmark { background-image: url("../img/mt_icons/app/blue-document-bookmark-16.png"); }
+.i-16-blue-document-break { background-image: url("../img/mt_icons/app/blue-document-break-16.png"); }
+.i-16-blue-document-code { background-image: url("../img/mt_icons/app/blue-document-code-16.png"); }
+.i-16-blue-document-copy { background-image: url("../img/mt_icons/app/blue-document-copy-16.png"); }
+.i-16-blue-document-excel { background-image: url("../img/mt_icons/app/blue-document-excel-16.png"); }
+.i-16-blue-document-excel-csv { background-image: url("../img/mt_icons/app/blue-document-excel-csv-16.png"); }
+.i-16-blue-document-excel-table { background-image: url("../img/mt_icons/app/blue-document-excel-table-16.png"); }
+.i-16-blue-document--exclamation { background-image: url("../img/mt_icons/app/blue-document--exclamation-16.png"); }
+.i-16-blue-document-film { background-image: url("../img/mt_icons/app/blue-document-film-16.png"); }
+.i-16-bookmark { background-image: url("../img/mt_icons/app/bookmark-16.png"); }
+.i-16-calendar { background-image: url("../img/mt_icons/app/calendar-16.png"); }
+.i-16-chart { background-image: url("../img/mt_icons/app/chart-16.png"); }
+.i-16-chart-pie { background-image: url("../img/mt_icons/app/chart-pie-16.png"); }
+.i-16-clipboard { background-image: url("../img/mt_icons/app/clipboard-16.png"); }
+.i-16-clock { background-image: url("../img/mt_icons/app/clock-16.png"); }
+.i-16-cross { background-image: url("../img/mt_icons/app/cross-16.png"); }
+.i-16-cross-small { background-image: url("../img/mt_icons/app/cross-small-16.png"); }
+.i-16-cutlery { background-image: url("../img/mt_icons/app/cutlery-16.png"); }
+.i-16-dashboard { background-image: url("../img/mt_icons/app/dashboard-16.png"); }
+.i-16-direction { background-image: url("../img/mt_icons/app/direction-16.png"); }
+.i-16-drive { background-image: url("../img/mt_icons/app/drive-16.png"); }
+.i-16-exclamation { background-image: url("../img/mt_icons/app/exclamation-16.png"); }
+.i-16-exclamation-red { background-image: url("../img/mt_icons/app/exclamation-red-16.png"); }
+.i-16-film { background-image: url("../img/mt_icons/app/film-16.png"); }
+.i-16-flag { background-image: url("../img/mt_icons/app/flag-16.png"); }
+.i-16-gear { background-image: url("../img/mt_icons/app/gear-16.png"); }
+.i-16-home { background-image: url("../img/mt_icons/app/home-16.png"); }
+.i-16-image { background-image: url("../img/mt_icons/app/image-16.png"); }
+.i-16-key { background-image: url("../img/mt_icons/app/key-16.png"); }
+.i-16-leaf { background-image: url("../img/mt_icons/app/leaf-16.png"); }
+.i-16-license-key { background-image: url("../img/mt_icons/app/license-key-16.png"); }
+.i-16-magnifier { background-image: url("../img/mt_icons/app/magnifier-16.png"); }
+.i-16-mail { background-image: url("../img/mt_icons/app/mail-16.png"); }
+.i-16-map { background-image: url("../img/mt_icons/app/map-16.png"); }
+.i-16-minus { background-image: url("../img/mt_icons/app/minus-16.png"); }
+.i-16-monitor { background-image: url("../img/mt_icons/app/monitor-16.png"); }
+.i-16-music { background-image: url("../img/mt_icons/app/music-16.png"); }
+.i-16-network-cloud { background-image: url("../img/mt_icons/app/network-cloud-16.png"); }
+.i-16-notebook { background-image: url("../img/mt_icons/app/notebook-16.png"); }
+.i-16-plus { background-image: url("../img/mt_icons/app/plus-16.png"); }
+.i-16-question { background-image: url("../img/mt_icons/app/question-16.png"); }
+.i-16-servers { background-image: url("../img/mt_icons/app/servers-16.png"); }
+.i-16-star { background-image: url("../img/mt_icons/app/star-16.png"); }
+.i-16-status { background-image: url("../img/mt_icons/app/status-16.png"); }
+.i-16-status-away { background-image: url("../img/mt_icons/app/status-away-16.png"); }
+.i-16-status-busy { background-image: url("../img/mt_icons/app/status-busy-16.png"); }
+.i-16-sticky-note { background-image: url("../img/mt_icons/app/sticky-note-16.png"); }
+.i-16-switch { background-image: url("../img/mt_icons/app/switch-16.png"); }
+.i-16-system-monitor { background-image: url("../img/mt_icons/app/system-monitor-16.png"); }
+.i-16-tag { background-image: url("../img/mt_icons/app/tag-16.png"); }
+.i-16-telephone { background-image: url("../img/mt_icons/app/telephone-16.png"); }
+.i-16-tick { background-image: url("../img/mt_icons/app/tick-16.png"); }
+
+/*
+ * 2.2) 24x24
+ */
+
+.i-24-address-book { background-image: url("../img/mt_icons/app/address-book-24.png"); }
+.i-24-address-book-blue { background-image: url("../img/mt_icons/app/address-book-blue-24.png"); }
+.i-24-alarm-clock { background-image: url("../img/mt_icons/app/alarm-clock-24.png"); }
+.i-24-alarm-clock-blue { background-image: url("../img/mt_icons/app/alarm-clock-blue-24.png"); }
+.i-24-application { background-image: url("../img/mt_icons/app/application-24.png"); }
+.i-24-application-blue { background-image: url("../img/mt_icons/app/application-blue-24.png"); }
+.i-24-balloon { background-image: url("../img/mt_icons/app/balloon-24.png"); }
+.i-24-blue-document { background-image: url("../img/mt_icons/app/blue-document-24.png"); }
+.i-24-blue-folder { background-image: url("../img/mt_icons/app/blue-folder-24.png"); }
+.i-24-blue-folder-horizontal-open { background-image: url("../img/mt_icons/app/blue-folder-horizontal-open-24.png"); }
+.i-24-book { background-image: url("../img/mt_icons/app/book-24.png"); }
+.i-24-bookmark { background-image: url("../img/mt_icons/app/bookmark-24.png"); }
+.i-24-calendar { background-image: url("../img/mt_icons/app/calendar-24.png"); }
+.i-24-card-address { background-image: url("../img/mt_icons/app/card-address-24.png"); }
+.i-24-color { background-image: url("../img/mt_icons/app/color-24.png"); }
+.i-24-cross { background-image: url("../img/mt_icons/app/cross-24.png"); }
+.i-24-database { background-image: url("../img/mt_icons/app/database-24.png"); }
+.i-24-disk-black { background-image: url("../img/mt_icons/app/disk-black-24.png"); }
+.i-24-document { background-image: url("../img/mt_icons/app/document-24.png"); }
+.i-24-drive { background-image: url("../img/mt_icons/app/drive-24.png"); }
+.i-24-edit { background-image: url("../img/mt_icons/app/edit-24.png"); }
+.i-24-equalizer { background-image: url("../img/mt_icons/app/equalizer-24.png"); }
+.i-24-folder { background-image: url("../img/mt_icons/app/folder-24.png"); }
+.i-24-folder-horizontal-open { background-image: url("../img/mt_icons/app/folder-horizontal-open-24.png"); }
+.i-24-home { background-image: url("../img/mt_icons/app/home-24.png"); }
+.i-24-inbox { background-image: url("../img/mt_icons/app/inbox-24.png"); }
+.i-24-inbox-document { background-image: url("../img/mt_icons/app/inbox-document-24.png"); }
+.i-24-information { background-image: url("../img/mt_icons/app/information-24.png"); }
+.i-24-keyboard { background-image: url("../img/mt_icons/app/keyboard-24.png"); }
+.i-24-mail { background-image: url("../img/mt_icons/app/mail-24.png"); }
+.i-24-mail-open { background-image: url("../img/mt_icons/app/mail-open-24.png"); }
+.i-24-map { background-image: url("../img/mt_icons/app/map-24.png"); }
+.i-24-marker { background-image: url("../img/mt_icons/app/marker-24.png"); }
+.i-24-minus { background-image: url("../img/mt_icons/app/minus-24.png"); }
+.i-24-monitor { background-image: url("../img/mt_icons/app/monitor-24.png"); }
+.i-24-notebook { background-image: url("../img/mt_icons/app/notebook-24.png"); }
+.i-24-pencil { background-image: url("../img/mt_icons/app/pencil-24.png"); }
+.i-24-plus { background-image: url("../img/mt_icons/app/plus-24.png"); }
+.i-24-printer { background-image: url("../img/mt_icons/app/printer-24.png"); }
+.i-24-question { background-image: url("../img/mt_icons/app/question-24.png"); }
+.i-24-receipt { background-image: url("../img/mt_icons/app/receipt-24.png"); }
+.i-24-server { background-image: url("../img/mt_icons/app/server-24.png"); }
+.i-24-sitemap { background-image: url("../img/mt_icons/app/sitemap-24.png"); }
+.i-24-smiley { background-image: url("../img/mt_icons/app/smiley-24.png"); }
+.i-24-star { background-image: url("../img/mt_icons/app/star-24.png"); }
+.i-24-star-empty { background-image: url("../img/mt_icons/app/star-empty-24.png"); }
+.i-24-star-half { background-image: url("../img/mt_icons/app/star-half-24.png"); }
+.i-24-sticky-note { background-image: url("../img/mt_icons/app/sticky-note-24.png"); }
+.i-24-switch { background-image: url("../img/mt_icons/app/switch-24.png"); }
+.i-24-tag { background-image: url("../img/mt_icons/app/tag-24.png"); }
+.i-24-terminal { background-image: url("../img/mt_icons/app/terminal-24.png"); }
+.i-24-ui-color-picker { background-image: url("../img/mt_icons/app/ui-color-picker-24.png"); }
+.i-24-user { background-image: url("../img/mt_icons/app/user-24.png"); }
+.i-24-user-business { background-image: url("../img/mt_icons/app/user-business-24.png"); }
+.i-24-wand { background-image: url("../img/mt_icons/app/wand-24.png"); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
